@@ -1,0 +1,5 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.Shared\bin\Debug\Northwind.Shared.dll
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.Shared\bin\Debug\Northwind.Shared.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.Shared\obj\Debug\Northwind.Shared.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.Shared\obj\Debug\Northwind.Shared.dll
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.Shared\obj\Debug\Northwind.Shared.pdb

@@ -1,0 +1,12 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\obj\Debug\ConsoleApp.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\bin\Debug\Northwind.DAL.dll
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\bin\Debug\Northwind.Shared.dll
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\bin\Debug\LiteDB.dll
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\bin\Debug\Northwind.DAL.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\bin\Debug\Northwind.Shared.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\bin\Debug\LiteDB.xml
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.DAL\bin\Debug\Northwind.DAL.dll
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.DAL\bin\Debug\Northwind.DAL.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.DAL\bin\Debug\LiteDB.dll
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.DAL\bin\Debug\Northwind.Shared.dll
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.DAL\bin\Debug\Northwind.Shared.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.DAL\bin\Debug\LiteDB.xml
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.DAL\obj\Debug\Northwind.DAL.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.DAL\obj\Debug\Northwind.DAL.dll
+c:\users\орунбаевас\documents\visual studio 2017\Projects\Northwind\Northwind.DAL\obj\Debug\Northwind.DAL.pdb
